@@ -16,4 +16,5 @@
 **Dataset:** [Kaggle Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
 
 **Dashboard Preview:**
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard.png)
+
